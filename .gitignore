@@ -1,0 +1,41 @@
+# file types that ought to get easily left in
+*.psd
+*.pdn
+*.zip
+*.rar
+
+# Debug files create by map editors
+*.jmx
+*.rmx
+*.map
+*.max
+*.ext
+*.wa_
+*.lin
+*.p0
+*.p1
+*.p2
+*.p3
+*.prt
+*.pts
+*.log
+*.rad
+
+# ignore user folders
+dermoker/BMP/
+snaps/
+dermoker/levelshots/
+dermoker/scrshots/
+dermoker/PROFILES/
+dermoker/config.cfg
+dermoker/voice_ban.dt
+
+#ignore dev folders
+dermoker/maps/oldbsps
+Limits-WAD/
+FurtherLimitsSourceNew/
+valve/
+/dermoker/maps/graphs
+/dermoker/save
+dermoker/demoheader.tmp
+dermoker/video.cfg

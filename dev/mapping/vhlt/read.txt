@@ -1,0 +1,3 @@
+darkkrysteqs personal:
+qcsg: -nowadtextures
+qrad: -limiter 255

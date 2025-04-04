@@ -1,0 +1,54 @@
+"w"				"+forward"
+"a"				"+moveleft"
+"d"				"+moveright"
+"s"				"+back"
+
+"e"				"+use"
+
+"SPACE"			"+jump"
+"CTRL"			"+duck"
+"SHIFT"			"+speed"
+
+"MOUSE1"		"+attack"
+"MOUSE2"		"+attack2"
+
+"1"				"slot1"
+"2"				"slot2"
+"3"				"slot3"
+"4"				"slot4"
+"5"				"slot5"
+
+"r"				"+reload"
+"f"				"impulse 100"
+"g"				"impulse 201"
+"q"				"lastinv"
+
+"PGUP"			"+lookup"
+"PGDN"			"+lookdown"
+"END"			"centerview"
+
+"MOUSE1"		"+attack"
+"MOUSE2"		"+attack2"
+
+"1"				"slot1"
+"2"				"slot2"
+"3"				"slot3"
+"4"				"slot4"
+"5"				"slot5"
+
+"MWHEELUP"		"invprev"
+"MWHEELDOWN"	"invnext"
+"["				"invprev"
+"]"				"invnext"
+
+"F12"			"snapshot"
+"F6"			"save quick"
+"F7"			"load quick"
+"F8"			"pause"
+
+"ESCAPE"		"escape"
+"~"				"toggleconsole"
+"`"				"toggleconsole"
+"+"				"sizeup"
+"="				"sizeup"
+"-"				"sizedown"
