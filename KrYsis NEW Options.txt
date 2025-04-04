@@ -1,0 +1,45 @@
+cl_bob_alpha - bob like in 0.52 GL mode
+
+hud_guardduty - hud like guard duty (does not affect Early HUD.)
+
+hud_batteryfix - use fixed value positioning for battery rather 
+than division based positioning. (only E3 1998 HUD.)
+
+hud_ammo255 - always display 255 in ammo slot (affects both Early HUD and E3 1998 HUD.)
+
+crosshair_mode - switch between qfont based crosshair and sprite based crosshair
+
+hlfl_old_mode - display antiquated "HL:FL By Dermoker" watermark at the top right.
+
+hud_early - green hud mode
+
+hud_broken_tp - broken transparency as seen in some green hud screenshots (does not affect E3 1998 HUD.)
+
+hud_draw_health - self-explanatory
+
+hud_draw_divider - ditto.
+
+hud_draw_battery - ditto.
+
+hud_draw_ammo - ditto.
+
+r_stretchcurse - enables a bug plagueing 1997-era GL screenshots due to improper glquake resolution handling.
+
+r_alpha_shade - more defined shading seen in some old alpha screenshots.
+
+r_3dfx - enables usage of gl_round_down (requires restart of game)
+
+r_texgamma - how much to boost gamma of textures (lower is higher gamma, and vice versa.)
+
+r_drawversion - enables a xash feature to show build version in screenshots and menu.
+
+r_shadows_early - shadows drawing seen in the 0.52 alpha
+
+r_src_chrome - chrome rendering like in half-life: source and the likes.
+
+sv_explosion_force - the amount of 'throw' an explosion should give upon damage.
+
+sv_weapon_punch - whether or not to apply view recoil when firing weapons.
+
+sv_mp5_evil_skip - odd mp5 firing behavior seen in 0.61 all way up to E3 1998.
+

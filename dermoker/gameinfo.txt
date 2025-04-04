@@ -1,0 +1,24 @@
+// KrYsis resource listing file
+
+basedir		"valve"
+gamedir		"dermoker"
+
+title		"dermoker&co Game Engine"
+
+startmap		"kc0a1"
+trainmap		"kc0a1"
+
+dllpath		"bin"
+gamedll		"bin/further.dll"
+
+version		"1.0.0"
+
+sp_entity		"info_player_start"
+mp_entity		"info_player_deathmatch"
+
+url_update ""
+
+max_edicts		4096
+max_tempents	2048
+max_beams		512
+max_particles	32768

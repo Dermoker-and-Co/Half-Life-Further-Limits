@@ -1,0 +1,164 @@
+123
+selection		320 320hud1	160	160	80	20
+
+bucket1			320 320hud7	0	15	12	12
+bucket2			320 320hud7	12	15	12	12
+bucket3			320 320hud7	24	15	12	12	
+bucket4			320 320hud7	0	27	12	12
+bucket5			320 320hud7	12	27	12	12					
+bucket0			320 320hud7	24	27	12	12
+
+dmg_bio			320 320hud4	0	0	32	32
+dmg_poison		320 320hud4	0	0	32	32
+dmg_chem		320 320hud4	32	0	32	32
+dmg_cold		320 320hud4	64	0	32	32
+dmg_drown		320 320hud4	96	0	32	32
+dmg_heat		320 320hud4	128	0	32	32
+dmg_gas			320 320hud4	160	0	32	32
+dmg_rad			320 320hud4	192	0	32	32
+dmg_shock		320 320hud4	224	0	32	32
+
+number_0		320 320hud7	0	0	10  15
+number_1		320 320hud7	12	0	10  15
+number_2		320 320hud7	24	0	10  15
+number_3		320 320hud7	36	0	10  15
+number_4		320 320hud7	48	0	10  15
+number_5		320 320hud7	60	0	10  15
+number_6		320 320hud7	73	0	10  15
+number_7		320 320hud7	85	0	10  15
+number_8		320 320hud7	96	0	10  15
+number_9		320 320hud7	109	0	10  15
+
+battery		320 320hud7	0	39	41	17
+
+divider			320 320hud2	120	0	1	20
+
+// beta mode
+
+old_number_0		320 320hud7	178	21	14	21
+old_number_1		320 320hud7	121	0	14	21
+old_number_2		320 320hud7	135	0	14	21
+old_number_3		320 320hud7	149	0	14	21
+old_number_4		320 320hud7	164	0	14	21
+old_number_5		320 320hud7	178	0	14	21
+old_number_6		320 320hud7	121	21	14	21
+old_number_7		320 320hud7	135	21	14	21
+old_number_8		320 320hud7	149	21	14	21
+old_number_9		320 320hud7	164	21	14	21
+
+old_ammo_0		320 320hud7	153	54	8	11
+old_ammo_1		320 320hud7	121	42	8	11
+old_ammo_2		320 320hud7	130	42	8	11
+old_ammo_3		320 320hud7	138	42	8	11
+old_ammo_4		320 320hud7	146	42	8	11
+old_ammo_5		320 320hud7	154	42	8	11
+old_ammo_6		320 320hud7	121	54	8	11
+old_ammo_7		320 320hud7	130	54	8	11
+old_ammo_8		320 320hud7	138	54	8	11
+old_ammo_9		320 320hud7	146	54	8	11
+
+old_divider			320 320hud7	162	42	8	11
+
+old_battery		320 320hud7	122	67	32	12
+
+cross			320 320hud2	0	72	16	16
+
+flash_full		320 320hud2	16	72	18	16
+flash_empty		320 320hud2	34	72	18	16
+flash_beam		320 320hud2	52	72	6	16
+
+train_back		320	320hud3 0	0	48	48
+train_stop		320	320hud3 48	0	48	48
+train_forward1	320	320hud3 96	0	48	48
+train_forward2	320	320hud3 144	0	48	48
+train_forward3	320	320hud3 192	0	48	48
+
+title_half		320 320hud3 0	48	128	16
+title_life		320 320hud3 128 48	116	16
+
+grenade			320 320hud2     36      34      18      18
+
+//===========================================
+
+selection		640 640hud3	0	180	170	45
+
+bucket1			640 640hud7	20	24	20	20
+bucket2			640 640hud7	40	24	20	20		
+bucket3			640 640hud7	60	24	20	20		
+bucket4			640 640hud7	20	44	20	20		
+bucket5			640 640hud7	40	44	20	20		
+bucket0			640 640hud7	60	44	20	20		
+
+dmg_bio			640 640hud8	128	0	64	64
+dmg_poison		640 640hud8	128	0	64	64
+dmg_chem		640 640hud8	0	0	64	64
+dmg_cold		640 640hud9	64	0	64	64
+dmg_drown		640 640hud8	64	0	64	64
+dmg_heat		640 640hud9	128	0	64	64
+dmg_gas			640 640hud9	0	0	64	64
+dmg_rad			640 640hud9	192 0	64	64
+dmg_shock		640 640hud8	192	0	64	64
+
+number_0		640 640hud7	0	0	20	24
+number_1		640 640hud7	24	0	20	24
+number_2		640 640hud7	48	0	20	24
+number_3		640 640hud7	72	0	20	24
+number_4		640 640hud7	96	0	20	24
+number_5		640 640hud7	120	0	20	24
+number_6		640 640hud7	144	0	20	24
+number_7		640 640hud7	168	0	20	24
+number_8		640 640hud7	192	0	20	24
+number_9		640 640hud7	216	0	20	24
+
+divider			640 640hud7	240	0	2	40
+
+cross			640 640hud7	80	24	32	32
+
+battery		640 640hud7	0	64	80	32
+
+// beta mode
+
+old_number_0		640 640hud7	368	40	28	40
+old_number_1		640 640hud7	256	0	28	40
+old_number_2		640 640hud7	284	0	28	40
+old_number_3		640 640hud7	312	0	28	40
+old_number_4		640 640hud7	340	0	28	40
+old_number_5		640 640hud7	368	0	28	40
+old_number_6		640 640hud7	256	40	28	40
+old_number_7		640 640hud7	284	40	28	40
+old_number_8		640 640hud7	312	40	28	40
+old_number_9		640 640hud7	340	40	28	40
+
+old_ammo_0		640 640hud7	460	25	16	22
+old_ammo_1		640 640hud7	396	1	16	22
+old_ammo_2		640 640hud7	412	1	16	22
+old_ammo_3		640 640hud7	428	1	16	22
+old_ammo_4		640 640hud7	444	1	16	22
+old_ammo_5		640 640hud7	460	1	16	22
+old_ammo_6		640 640hud7	396	25	16	22
+old_ammo_7		640 640hud7	412	25	16	22
+old_ammo_8		640 640hud7	428	25	16	22
+old_ammo_9		640 640hud7	444	25	16	22
+
+old_divider		640 640hud7	476	0	16	24
+
+old_battery		640 640hud7	398	50	64	24
+
+scanlines 640 640_scanlines 0 0 800 600
+
+flash_full		640 640hud7	160	24	32	32
+flash_empty		640 640hud7	112	24	32	32
+flash_beam		640 640hud7 144	24	16	32
+
+train_back		640	640hud5 170	0	72	72
+train_stop		640	640hud5 170	72	72	72
+train_forward1	640	640hud5 170	144	72	72
+train_forward2	640	640hud6 170	0	72	72
+train_forward3	640	640hud6 170	72	72	72
+
+autoaim_c		640	crosshairs	96	0	24	24
+
+title_half		640 640hud4	0	226	256	30
+title_life		640 640hud5	0	226	220	30
+
+grenade			640 640hud7     48      96      24      24
