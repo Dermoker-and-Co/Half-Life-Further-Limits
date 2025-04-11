@@ -1,1 +1,1 @@
-enginegl.exe +map kc0a1 -console +sv_cheats 1
+enginegl.exe +map kc0a1 -console -krystal +sv_cheats 1
