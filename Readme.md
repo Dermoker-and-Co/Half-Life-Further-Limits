@@ -3,7 +3,7 @@
 This build dated 4.2025, below i will tell some information.
 
 You need to copy the 'valve' folder from your Half-Life installation (preferably WON) here.
-It works without it too but you'll be unable to see barely anything.
+It works without it too but you'll be able to see barely anything.
 
 Enjoy And have fun.
 
