@@ -23,7 +23,10 @@ hud_draw_battery - ditto.
 
 hud_draw_ammo - ditto.
 
-r_stretchcurse - enables a bug plagueing 1997-era GL screenshots due to improper glquake resolution handling.
+r_stretch - a mode of screen stretchings 
+0 - normal 
+1 - locked to 4:3 (Recommended For Accuracy)
+2 - locked to 16:9 (alpha) 
 
 r_alpha_shade - more defined shading seen in some old alpha screenshots.
 
