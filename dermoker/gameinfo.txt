@@ -3,10 +3,10 @@
 basedir		"valve"
 gamedir		"dermoker"
 
-title		"dermoker&co Game Engine"
+title		"Half-Life"
 
-startmap		"kc0a1"
-trainmap		"kc0a1"
+startmap		"kr1a0"
+trainmap		"troom_a"
 
 dllpath		"bin"
 gamedll		"bin/further.dll"
