@@ -118,33 +118,31 @@ battery		640 640hud7	0	64	80	32
 
 // beta mode
 
-old_number_0		640 640hud7	368	40	28	40
-old_number_1		640 640hud7	256	0	28	40
-old_number_2		640 640hud7	284	0	28	40
-old_number_3		640 640hud7	312	0	28	40
-old_number_4		640 640hud7	340	0	28	40
-old_number_5		640 640hud7	368	0	28	40
-old_number_6		640 640hud7	256	40	28	40
-old_number_7		640 640hud7	284	40	28	40
-old_number_8		640 640hud7	312	40	28	40
-old_number_9		640 640hud7	340	40	28	40
+old_number_0		640 Big0	0	0	28	40
+old_number_1		640 Big1	0	0	28	40
+old_number_2		640 Big2	0	0	28	40
+old_number_3		640 Big3	0	0	28	40
+old_number_4		640 Big4	0	0	28	40
+old_number_5		640 Big5	0	0	28	40
+old_number_6		640 Big6	0	0	28	40
+old_number_7		640 Big7	0	0	28	40
+old_number_8		640 Big8	0	0	28	40
+old_number_9		640 Big9	0	0	28	40
 
-old_ammo_0		640 640hud7	460	25	16	22
-old_ammo_1		640 640hud7	396	1	16	22
-old_ammo_2		640 640hud7	412	1	16	22
-old_ammo_3		640 640hud7	428	1	16	22
-old_ammo_4		640 640hud7	444	1	16	22
-old_ammo_5		640 640hud7	460	1	16	22
-old_ammo_6		640 640hud7	396	25	16	22
-old_ammo_7		640 640hud7	412	25	16	22
-old_ammo_8		640 640hud7	428	25	16	22
-old_ammo_9		640 640hud7	444	25	16	22
+old_ammo_0		640 Small0	0	0	16	22
+old_ammo_1		640 Small1	0	0	16	22
+old_ammo_2		640 Small2	0	0	16	22
+old_ammo_3		640 Small3	0	0	16	22
+old_ammo_4		640 Small4	0	0	16	22
+old_ammo_5		640 Small5	0	0	16	22
+old_ammo_6		640 Small6	0	0	16	22
+old_ammo_7		640 Small7	0	0	16	22
+old_ammo_8		640 Small8	0	0	16	22
+old_ammo_9		640 Small9	0	0	16	22
 
-old_divider		640 640hud7	476	0	16	24
+old_divider		640 SmallDivider	0	0	16	22
 
-old_battery		640 640hud7	398	50	64	24
-
-scanlines 640 640_scanlines 0 0 800 600
+old_battery		640 BigBattery	0	0	64	24
 
 flash_full		640 640hud7	160	24	32	32
 flash_empty		640 640hud7	112	24	32	32
@@ -160,5 +158,3 @@ autoaim_c		640	crosshairs	96	0	24	24
 
 title_half		640 640hud4	0	226	256	30
 title_life		640 640hud5	0	226	220	30
-
-grenade			640 640hud7     48      96      24      24
